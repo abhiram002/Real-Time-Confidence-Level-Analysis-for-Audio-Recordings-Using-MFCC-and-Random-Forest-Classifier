@@ -1,0 +1,7 @@
+time = np.linspace(0, len(audio_data) / 44100, num=len(audio_data))
+# plt.figure(figsize=(10, 6))
+# plt.subplot(2, 1, 1)
+# plt.plot(time, audio_data, color='b')
+# plt.xlabel('Time (s)')
+# plt.ylabel('Amplitude')
+# plt.title('Recorded Audio')
